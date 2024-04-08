@@ -21,11 +21,9 @@ This project aims to detect various objects on the road using the YOLOv3 (You On
 4. Run the app.py file. The app starts running on the localhost.
 5. Upload the image and it will show the processed image.
 
-## backend
+## Backend
 The model.py file contains the DL model to process the image.
 The frontend is just the proof of concept could be developed in a better way if the time permits.
 
 The screenshot of the frontend is:
 ![frontend](https://github.com/vikasgrewal16/Road-Object-Detection-using-YOLOv3/blob/main/frontend.jpg)
-
-##About Model
